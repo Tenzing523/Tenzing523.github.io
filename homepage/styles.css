@@ -1,0 +1,29 @@
+            
+            #Paldon {
+                width: 500px;
+                text-align: center;
+            }
+            .Tenzing {
+                width: auto;
+                margin: auto;
+            }
+            .center {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }
+            .p1 {
+                font-family: "Monaco", monospace;
+            }
+            body {
+                background-color: Coral;
+}            
+
+.fonts {
+    font-family:"Garamond", serif;
+}
+
+.display-4 {
+    font-family:"Garamond", serif;
+}
